@@ -1,34 +1,26 @@
 # Unlocking-YouTube-Channel-Performance
-## 🎯 Project Objectives
 
-- Analyze video-level engagement trends using temporal and performance metrics
-- Identify key revenue-driving factors using monetization data
-- Visualize patterns that influence viewer retention and ad performance
+## 🎯 Objectives
 
----
-
-## 📊 Dataset Overview
-
-- **Rows:** 364 (each row = one video)
-- **Columns:** 70 (detailed metrics)
-- **Key Metrics:**
-  - Views, Watch Time, Avg View Duration & %  
-  - Revenue, Ad Impressions, CPM, AdSense Revenue  
-  - Publish Date, Day of Week, Days Since Upload
+- Understand factors affecting video views and audience retention
+- Identify patterns in publishing time and day impacting performance
+- Analyze key monetization metrics such as CPM and ad revenue
+- Visualize data to support decision-making for content optimization
 
 ---
 
-## 🧰 Tools & Techniques
+## 🛠 Tools & Technologies
 
-- Python (Pandas, NumPy)
+- Python
+- Pandas, NumPy
 - Matplotlib, Seaborn
-- Jupyter Notebook
+- Google colab
 
 ---
 
-## 🔍 Key Features
+## 🔍 Key Tasks Performed
 
-- Time-based trend analysis (month, day, days since upload)
-- High and low performing video breakdowns
-- Revenue vs Engagement correlation
-- Cleaned and visualized metrics for better storytelling
+- Data preprocessing and feature extraction
+- Exploratory Data Analysis (EDA)
+- Trend and correlation analysis across metrics
+- Visualization of insights for business impact
